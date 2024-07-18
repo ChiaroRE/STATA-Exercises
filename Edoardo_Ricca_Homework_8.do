@@ -1,4 +1,3 @@
-cd "C:\Users\edoar\OneDrive\Desktop\Teoria_e_pratica_dei_modelli_statistici\Homeworks\Homework_8"
 
 use wvs_us3, clear
 
